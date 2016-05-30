@@ -1,0 +1,47 @@
+body {
+
+}
+
+.navigationTable {
+ border-collapse: collapse;
+ width: 100%;
+ text-align: center;
+ margin: 0 auto;
+}
+
+.addToTableForm {
+ border-collapse: collapse;
+ width: 100%;
+ text-align: center;
+ margin: 0 auto;
+}
+
+.tableFromDatabase {
+ border-collapse: collapse;
+ width: 100%;
+ text-align: center;
+ margin: 0 auto;
+}
+
+.tableNamesTable {
+ border-collapse: collapse;
+ width: 100%;
+ text-align: center;
+ margin: 0 auto;
+}
+
+.lookLikeLink {
+ width: 100%;	
+ background: none;
+ text-decoration: underline;
+ cursor: pointer;
+}
+
+.screenWidth {
+ width: 100%;
+}
+
+.middle {
+	text-align: center;
+}
+
